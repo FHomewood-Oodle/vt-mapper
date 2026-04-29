@@ -1,0 +1,10 @@
+# This is a example config.toml file, remove the ` (example)` from the file name to make use of this config
+[snowflake]
+user="<user>"
+account="<account>"
+authenticator="<authenticator>"
+
+[queries]
+VT = """
+    select null
+"""
