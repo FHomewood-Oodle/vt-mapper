@@ -1,0 +1,15 @@
+# newest available
+pip
+ipykernel
+nbconvert
+nbformat
+
+# dependencies
+tda-mapper==0.12.0
+snowflake==1.12.0
+snowflake-connector-python
+snowflake-connector-python[pandas]
+snowflake-connector-python[secure-local-storage]
+scikit-learn==1.8.0
+matplotlib==3.10.9
+toml==0.10.2
